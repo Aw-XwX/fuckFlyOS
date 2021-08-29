@@ -24,3 +24,8 @@
 .hint {
   color:silver;
 }
+.very_secret {
+  text-align:center;
+  background-color: black;
+  color: black;
+}
